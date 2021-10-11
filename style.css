@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand:400,500,700&subset=latin-ext");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #324e63;
+}
+
+body {
+  background: rgb(131, 58, 180);
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient(
+    circle,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+  background-repeat: no-repeat;
+}
+
+#profile-image {
+  width: 100px;
+  height: 100px;
+  background-image: url("Images/me.jpg");
+  background-size: 110px 200px;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  margin: 0 auto;
+  position: relative;
+  top: 100px;
+  z-index: 1;
+  box-shadow: 0px 8px 60px -10px rgba(13, 28, 39, 0.6);
+}
+
+#card {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  /* padding: 0 50px 0 50px; */
+  text-align: center;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 2%;
+  position: relative;
+  top: 47px;
+}
+
+h1 {
+  font-size: 1.5em;
+  color: purple;
+  position: relative;
+  margin-top: 70px;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-bottom: 5px;
+}
+
+.fas fa-map-marker-alt {
+  margin-top: 20px;
+}
+
+.location {
+  display: inline-block;
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+.numbers {
+  display: inline-block;
+  font-size: 1.3rem;
+  word-spacing: 88px;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+.text {
+  display: inline-block;
+  font-size: 0.9rem;
+  word-spacing: 67px;
+  margin-top: 1px;
+  margin-bottom: 0;
+}
+
+.icon {
+  display: inline-block;
+  padding: 10px;
+  margin: 35px;
+  margin-top: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.icon:hover {
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+  transform: scale(1.2);
+}
+
+button {
+  background: #f12711; /*fallback for old browsers*/
+  background: -webkit-linear-gradient(
+    to right,
+    #f5af19,
+    #f12711
+  ); /*Chrome 10-25, Safari 5.1-6*/
+  background: linear-gradient(
+    to right,
+    #f5af19,
+    #f12711
+  ); /*W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #fff;
+}
+
+.btn {
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 25px;
+  width: 30%;
+  cursor: pointer;
+}
+
+.btn:hover {
+  transform: scale(1.2);
+}
