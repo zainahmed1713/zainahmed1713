@@ -7,4 +7,7 @@ This is Zain Ahmed from Lahore, Pakistan. I'm a Tech Savvy who loves to explore 
 - 📫 You can reach out to me [@Twitter](https://www.twitter.com/zainhunmein) or [@Instagram](https://www.instagram.com/zainhunmein)
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-
+![](https://raw.githubusercontent.com/zainahmed1713/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/zainahmed1713/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/zainahmed1713/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/zainahmed1713/github-stats/master/generated/languages.svg#gh-light-mode-only)
