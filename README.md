@@ -13,7 +13,7 @@ This is Zain Ahmed from Lahore, Pakistan. I'm a Tech Savvy who loves to explore 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zainahmed1713)   -->
 
-![GitHub metrics](https://metrics.lecoq.io/zainahmed1713)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/zainahmed1713)   -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=zainahmed1713)  
 
