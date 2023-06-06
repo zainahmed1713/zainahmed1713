@@ -1,5 +1,6 @@
 ### Hi there 👋
-This is Zain Ahmed from Lahore, Pakistan. I'm a Tech Savvy who loves to explore the unending world of technology. I'm currently in my 5th semester pursuing Bachelors in Information Technology from Bahria University.
+This is Zain Ahmed from Lahore, Pakistan. A Tech Savvy who loves to explore the unending world of Technology with a Passion to learn and adapt to latest Trends and Technologies. Having a keen interest in Web Development, Currently, I'm learning Frontend side of things with a dedication to go Full-Stack in near future.
+
 
 - 🌱 I’m currently learning ```Frontend Web Development```
 - 👯 I’m looking to collaborate on ```Frontend Web Projects```
