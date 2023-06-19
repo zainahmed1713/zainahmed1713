@@ -4,7 +4,7 @@ This is Zain Ahmed from Lahore, Pakistan. I'm a Tech Savvy who loves to explore 
 
 - 🌱 I’m currently learning ```Frontend Web Development```
 - 👯 I’m looking to collaborate on ```Frontend Web Projects```
-- 🔭 I’m currently working on [```Todo List App```](https://github.com/zainahmed1713/todo-list-app)
+- 🔭 I’m currently working on [```Easybank Landing Page```](https://github.com/zainahmed1713/easybank-landing-page-frontend-mentor-challenge)
 - 📫 You can reach out to me <br><br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zainahmed1713)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zainhunmein/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zainhunmein)  
 
