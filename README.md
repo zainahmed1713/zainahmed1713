@@ -4,7 +4,7 @@ This is Zain Ahmed from Lahore, Pakistan. I'm a Tech Savvy who loves to explore 
 
 - 🌱 I’m currently learning ```Frontend Web Development```
 - 👯 I’m looking to collaborate on ```Frontend Web Projects```
-- 🔭 I’m currently working on [```Advice Generator```](https://github.com/zainahmed1713/advice-generator)
+- 🔭 I’m currently working on [```Weather App```](https://github.com/zainahmed1713/weather-app)
 - 📫 You can reach out to me <br><br>
 <a href="https://twitter.com/zainhunmein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Zain's Twitter" height="30" width="40" /></a>
 <a href="https://instagram.com/zainhunmein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Zain's Instagram" height="30" width="40" /></a>
