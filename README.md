@@ -4,7 +4,7 @@ This is Zain Ahmed from Lahore, Pakistan. I'm a Tech Savvy who loves to explore 
 
 - 🌱 I’m currently learning ```Frontend Web Development```
 - 👯 I’m looking to collaborate on ```Frontend Web Projects```
-- 🔭 I’m currently working on [```Weather App```](https://github.com/zainahmed1713/weather-app)
+- 🔭 I’m currently working on [```Notes App```](https://github.com/zainahmed1713/notes-app)
 - 📫 You can reach out to me <br><br>
 
 <a href="https://www.linkedin.com/in/zain-ahmed-1ba904287/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Zain's linkedin" height="30" width="40" /></a>
