@@ -9,7 +9,6 @@ This is Zain Ahmed from Lahore, Pakistan. I'm a Tech Savvy who loves to explore 
 
 <a href="https://www.linkedin.com/in/zain-ahmed-1ba904287/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Zain's linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/zainhunmein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Zain's Twitter" height="30" width="40" /></a>
-<a href="https://instagram.com/zainhunmein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainahmed1713)](https://github.com/anuraghazra/github-readme-stats)
 
