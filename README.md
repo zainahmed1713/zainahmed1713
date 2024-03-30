@@ -14,12 +14,12 @@ This is Zain Ahmed from Lahore, Pakistan. I'm a Tech Savvy who loves to explore 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zainahmed1713&show_icons=true)  
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zainahmed1713)   -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zainahmed1713)   
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/zainahmed1713)   -->
+![GitHub metrics](https://metrics.lecoq.io/zainahmed1713) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=zainahmed1713)  
 
-<!-- ![Profile views](https://gpvc.arturio.dev/zainahmed1713)   -->
+ ![Profile views](https://gpvc.arturio.dev/zainahmed1713)  
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
