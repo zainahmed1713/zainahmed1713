@@ -7,7 +7,7 @@ This is Zain Ahmed from Lahore, Pakistan. I'm a Tech Savvy who loves to explore 
 
 - 🌱 I’m currently learning ```React```
 - 👯 I’m looking to collaborate on ```Frontend Web Projects```
-- 🔭 I’m currently working on [```Gemi - Chatbot App```](https://github.com/zainahmed1713/Gemi---Chatbot-App)
+- 🔭 I’m currently working on [```Gemi - Chatbot App```](https://github.com/zainahmed1713/gemi-chatbot-app)
 
 
 <h2><i>🗨️ Connect With Me</i></h2>
