@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Zain Ahmed from Lahore, Pakistan. I'm a Tech Savvy who loves to explore the unending world of Technology with a Passion to learn and adapt to latest Trends and Technologies. Having a keen interest in Web Development, Currently, I'm learning Frontend side of things with a dedication to go Full-Stack in near future.
+This is Zain Ahmed from Lahore, Pakistan. I'm a Highly motivated Frontend Developer with a passion for crafting user-centric web experiences using React.js. Adept at leveraging modern development practices and eager to contribute to a fast-paced environment. Continuously learning and expanding the skill set to embrace full-stack development in the future.
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=zainahmed1713" alt="Profile Views"/>
